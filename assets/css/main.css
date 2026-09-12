@@ -747,12 +747,12 @@ section,
 }
 
 .hero .hero-content h2 .typed {
-  color: var(--accent-color);
+  color: #ffffff;
   font-weight: 600;
 }
 
 .hero .hero-content h2 .typed-cursor {
-  color: var(--accent-color);
+  color: #ffffff;
   font-weight: 400;
 }
 
