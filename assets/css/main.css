@@ -751,6 +751,11 @@ section,
   font-weight: 600;
 }
 
+.hero .hero-content h2 .typed-cursor {
+  color: var(--accent-color);
+  font-weight: 400;
+}
+
 @media (max-width: 768px) {
   .hero .hero-content h2 {
     font-size: 1.25rem;
